@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  brand: MyString
+  model: MyString
+  manufacture: 2017-09-21
+  color: MyString
+  kilometer: 
+  board: MyString
+  fipe: 9.99
+  sinister: 1
+  status: 1
+
+two:
+  brand: MyString
+  model: MyString
+  manufacture: 2017-09-21
+  color: MyString
+  kilometer: 
+  board: MyString
+  fipe: 9.99
+  sinister: 1
+  status: 1
